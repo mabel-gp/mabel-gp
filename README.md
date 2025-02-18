@@ -1,6 +1,6 @@
 ## About me
 
-¡Hola! Soy Desarrolladora Web Junior egresada de Laboratoria, con formación en Medio Ambiente y Seguridad Industrial. Mi entusiasmo por el código me llevó a dar un giro en mi carrera y explorar el mundo del desarrollo web. Gracias a mi curiosidad y resiliencia, puedo adaptarme a los constantes cambios del sector tecnológico. Estoy emocionada por seguir aprendiendo y contribuir a proyectos innovadores.
+¡Hola! Soy Desarrolladora Web Junior egresada de Laboratoria. Mi entusiasmo por el código me llevó a explorar el mundo del desarrollo web. Gracias a mi curiosidad y resiliencia, puedo adaptarme a los constantes cambios del sector tecnológico. Estoy emocionada por seguir aprendiendo y contribuir a proyectos innovadores.
 
 ## Tech Stack
 
