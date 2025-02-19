@@ -1,6 +1,6 @@
 ## About me
 
-¡Hola! Soy Desarrolladora Web Junior egresada de Laboratoria. Mi entusiasmo por el código me llevó a explorar y aprender herramientas tecnológicas como JavaScript, Python, HTML, CSS, entre otras. Me considero una persona curiosia y resiliente, habilidades que me permiten adaptarme a los constantes cambios del sector tecnológico. Estoy emocionada por seguir aprendiendo y contribuyendo a proyectos innovadores.
+¡Hola! Soy Desarrolladora Web Junior egresada de Laboratoria. Mi entusiasmo por el código me llevó a explorar y aprender herramientas tecnológicas como JavaScript, Python, HTML, CSS, entre otras. Me considero curiosa y resiliente, habilidades que me permiten adaptarme a los constantes cambios del sector tecnológico. Estoy emocionada por seguir aprendiendo y contribuyendo a proyectos innovadores.
 
 ## Tech Stack
 
